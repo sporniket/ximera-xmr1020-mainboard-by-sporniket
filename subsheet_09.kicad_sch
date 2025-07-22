@@ -17,8 +17,8 @@
   )
 
 
-  (text "TODO:\n* Mega bus extension port and support circuitry\n* Cartridge adapter port : a simple 2x20 Header socket to plug\nan adapter that will allow to use cartridge made for the Atari\nST"
-    (at 21.59 27.94 0)
+  (text "TODO:\n* Mega bus extension port and support circuitry\n* Cartridge adapter port : a simple 2x20 Header socket to plug\n  an adapter that will allow to use cartridge made for the Atari ST.\n  The adapteur MUST provide 5V and Level shifting 5V <--> 3.3v"
+    (at 21.59 25.4 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 8d063f77-81af-4ed5-b6ca-47d575156a78)
   )

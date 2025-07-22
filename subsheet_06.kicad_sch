@@ -16,4 +16,10 @@
   (lib_symbols
   )
 
+
+  (text "TODO :\n* Input DC 5~12V (20W), output to 3V3 up to 4/5A\n* Protect the FPGA board with a diode ?\n* Reset circuit combine several reset sources (power good,\nFPGA good, manual reset, PLD/FPGA/Flash reprogramming mode)"
+    (at 25.4 25.4 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5cc4cc9d-b9c2-420c-ae9c-6702b76eb030)
+  )
 )

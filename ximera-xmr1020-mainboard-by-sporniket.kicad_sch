@@ -96,7 +96,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 45c7207b-230a-4ebb-a3c5-2a43ee60e3f8)
-    (property "Sheetname" "Reset circuit" (at 25.4 163.5234 0)
+    (property "Sheetname" "Power supply and reset circuit" (at 25.4 163.5234 0)
       (effects (font (size 3 3)) (justify left bottom))
     )
     (property "Sheetfile" "subsheet_06.kicad_sch" (at 25.4 173.3046 0)
