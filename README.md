@@ -37,6 +37,10 @@ You can copy, modify, distribute and perform the work, even for commercial purpo
 
 **Ximera XMR1020 main board by Sporniket** is made using Kicad.
 
+It is designed to support the FPGA module [Colorlight i9 v7.2](https://github.com/wuxx/Colorlight-FPGA-Projects/blob/master/colorlight_i9_v7.2.md) by [Muse Lab](https://www.muselab-tech.com/), with the expansion board that provides 5 2×15 pins headers connectors, one HDMI port (only the output channels), and one USB-C port (firmware uploading and uploading).
+
+**The chips are supplied with 3.3 Volts.**
+
 > Do not use **Ximera XMR1020 main board by Sporniket** if this project is not suitable for your project.
 
 ## 3. How to use **Ximera XMR1020 main board by Sporniket** ?
