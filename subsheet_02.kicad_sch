@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 8d13305f-e340-44ab-a1a4-671d65d20ff5)
+
+  (paper "A4" portrait)
+
+  (title_block
+    (title "Ximera XMR1020 mainboard")
+    (date "2025-07-22")
+    (rev "Mk-0 draft")
+    (company "Sporniket")
+    (comment 3 "https://github.com/sporniket/ximera-xmr1020-mainboard-by-sporniket.git")
+    (comment 4 "Original repository :")
+  )
+
+  (lib_symbols
+  )
+
+)

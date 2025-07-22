@@ -1,0 +1,25 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 8d13305f-e340-44ab-a1a4-671d65d20ff5)
+
+  (paper "A4" portrait)
+
+  (title_block
+    (title "Ximera XMR1020 mainboard")
+    (date "2025-07-22")
+    (rev "Mk-0 draft")
+    (company "Sporniket")
+    (comment 3 "https://github.com/sporniket/ximera-xmr1020-mainboard-by-sporniket.git")
+    (comment 4 "Original repository :")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "TODO:\n* Mega bus extension port and support circuitry\n* Cartridge adapter port : a simple 2x20 Header socket to plug\nan adapter that will allow to use cartridge made for the Atari\nST"
+    (at 21.59 27.94 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 8d063f77-81af-4ed5-b6ca-47d575156a78)
+  )
+)
