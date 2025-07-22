@@ -18,6 +18,8 @@ The XMR1020 is mainly inspired by the Atari ST computer, a computer from the 198
 
 This inspiration can be seen with the use of the Motorola Multi Function Peripheral MC68901 chip, the "Mega Bus extension port" that was inside the "Mega ST" variant, and a connector to plug an adaptor to use cartridges made for those computers.
 
+> Motorola was the name of the chip manufacturer at that time. At time of writing (2025), the known IP holder of those obsolete chips is [NXP Semiconductors](https://www.nxp.com/).
+
 
 ### Licence
 
