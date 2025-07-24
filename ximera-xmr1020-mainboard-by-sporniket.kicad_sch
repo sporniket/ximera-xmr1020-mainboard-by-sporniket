@@ -147,7 +147,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid c8775de7-8437-477b-803b-0a43a15991ce)
-    (property "Sheetname" "CPLD" (at 25.4 82.2434 0)
+    (property "Sheetname" "CPLD \"Director\"" (at 25.4 82.2434 0)
       (effects (font (size 3 3)) (justify left bottom))
     )
     (property "Sheetfile" "subsheet_02.kicad_sch" (at 25.4 92.0246 0)
