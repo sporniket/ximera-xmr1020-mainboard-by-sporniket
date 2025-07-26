@@ -365,8 +365,13 @@
     (uuid dbf960dc-9e34-4163-881f-3ad4fc1b1b03)
   )
 
-  (text "TODO :\n* Input DC 5~12V (20W), output to 3V3 up to 4/5A\n* Power Plug : reverse polarity protection using \"smart diode\"\n  IC like TI LM74610-Q1\n* Protect the FPGA board with a diode or mosfet ?\n* Reset circuit combine several reset sources (power good,\nFPGA good, manual reset, PLD/FPGA/Flash reprogramming mode)"
-    (at 25.4 29.21 0)
+  (text "TODO : \nA DC-DC step-down convertor using SY8205\nhttps://datasheet.lcsc.com/lcsc/Silergy-Corp-SY8205FCC_C111875.pdf\n\nOR JUST USE A READY MADE MODULE : \nhttps://fr.aliexpress.com/item/1005006342416919.html"
+    (at 85.09 54.61 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 23cb69e5-6f82-4c00-af70-a2efe591f76f)
+  )
+  (text "TODO :\n* Input DC 5~24V (20W), output to 3V3 up to 4/5A\n* Power Plug : reverse polarity protection using \"smart diode\"\n  IC like TI LM74610-Q1\n* Implement selection between Colorlight 3v3 and Ximera 3v3\n  rail\n* Reset circuit combine several reset sources (power good,\nFPGA good, manual reset, PLD/FPGA/Flash reprogramming mode)"
+    (at 25.4 38.1 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5cc4cc9d-b9c2-420c-ae9c-6702b76eb030)
   )
@@ -553,7 +558,7 @@
     (property "Reference" "J701" (at 38.1 45.466 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "5V-12V" (at 38.1 55.88 0)
+    (property "Value" "5V-24V" (at 38.1 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at 39.37 51.816 0)
